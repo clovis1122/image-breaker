@@ -1,0 +1,15 @@
+html,body {
+  width: 100%;
+  text-align: center;
+}
+
+table {
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+
+img {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+}
